@@ -1,0 +1,1 @@
+Ce répertoire contient mes codes ruby et dans le code numéro 20 on voit la pyramide
